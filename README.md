@@ -13,5 +13,12 @@
 
 <img src="unknown3.png" width="400">
 
+## How to install:
+1. download the zip folder
+2. extract the folder
+3. make sure to have a Java IDE installed
+4. open the folder in your IDE and run the code
+
+
 
 
