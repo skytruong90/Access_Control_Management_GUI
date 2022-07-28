@@ -25,10 +25,12 @@ https://youtu.be/E2mCG2c9Gq0
 <img src="unknown3.png" width="400">
 
 ## How to install:
-1. Clone the repository: git clone 
-2. cd 
-3. Build the project with Maven: mvn clean install
-4. Run the project: java -jar target/access-control-system-1.0.0.jar
+1. Clone the repository: git clone https://github.com/skytruong90/Access_Control_Management_GUI.git
+2. The main code is inside the GUI folder when you download everything
+3. cd to GUI
+4. `cd 22su_team1`
+5. Build the project with Maven: mvn clean install
+6. Run the project: java -jar target/access-control-system-1.0.0.jar
 
 
 
