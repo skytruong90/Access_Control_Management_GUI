@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="robots" content="noindex" />
+        <title>Access History Report</title>
+        <style>
+body {
+  font-family: sans-serif;
+  font-size: 12pt;
+  background-color: #FAFAFA;
+  margin: 1rem 2rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    width: 100%;
+    font-size: 12pt;
+}
+
+td, th {
+    border: 1px solid rgba(34, 34, 34, 0.2);
+    padding: 0.5em;
+}
+
+th {
+    background-color: rgba(34, 34, 34, 0.1);
+}
+
+tr:nth-child(odd) td {
+    background-color: rgba(34, 34, 34, 0.05);
+}
+
+tr.security-alert td {
+    background-color: #FFEBEE;
+    color: #B71C1C;
+}
+
+tr.security-alert:nth-child(odd) td {
+    background-color: #FFDCE0;
+}
+        </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Timestamp</th>
+                <th>Employee ID</th>
+                <th>Area</th>
+                <th>Flag</th>
+            </tr>
+___TABLE_ROWS___
+        </table>
+    </body>
+</html>
