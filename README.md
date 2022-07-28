@@ -7,7 +7,7 @@
 - [Chase Vaughan](https://github.com/cvaugh)
 
 
-## Objective: Write a Gui based system that allows a user to manage buildings, suites, and rooms; employees; and employees access to buildings, suites, and rooms. The system also has a way to test an employee’s access to a room. Finally, the system can be used to generate various reports about access to rooms.
+## Objective: Create a GUI based system that allows a user to manage buildings, suites, and rooms; employees; and employees access to buildings, suites, and rooms. The system also has a way to test an employee’s access to a room. Finally, the system can be used to generate various reports about access to rooms.
 
 ## This is the login in Screen of the GUI.
 <img src="Screenshot_2022-07-10_173243.png" width="400">
