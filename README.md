@@ -1,5 +1,12 @@
 # This is the Hotel Management project that my team and I work on together for this summer.
 
+### Team members: 
+- [Jay Madison](https://github.com/JayMad18)
+- [Nijel Roberts](https://github.com/nijelroberts)
+- [David Tan](https://github.com/skytruong90)
+- [Chase Vaughan](https://github.com/cvaugh)
+
+
 ## Objective: Write a Gui based system that allows a user to manage buildings, suites, and rooms; employees; and employees access to buildings, suites, and rooms. The system also has a way to test an employee’s access to a room. Finally, the system can be used to generate various reports about access to rooms.
 
 ## This is the login in Screen of the GUI.
