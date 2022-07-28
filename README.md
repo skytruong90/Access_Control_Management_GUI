@@ -16,10 +16,10 @@
 <img src="unknown3.png" width="400">
 
 ## How to install:
-1. download the zip folder
-2. extract the folder
-3. make sure to have a Java IDE installed
-4. open the folder in your IDE and run the code
+1. Clone the repository: git clone 
+2. cd 
+3. Build the project with Maven: mvn clean install
+4. Run the project: java -jar target/access-control-system-1.0.0.jar
 
 
 
