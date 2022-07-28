@@ -6,6 +6,8 @@
 - [David Tan](https://github.com/skytruong90)
 - [Chase Vaughan](https://github.com/cvaugh)
 
+## Here is a Live Demo:
+https://youtu.be/E2mCG2c9Gq0
 
 ## Objective: Create a GUI based system that allows a user to manage buildings, suites, and rooms; employees; and employees access to buildings, suites, and rooms. The system also has a way to test an employee’s access to a room. Finally, the system can be used to generate various reports about access to rooms.
 
