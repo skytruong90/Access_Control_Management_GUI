@@ -22,7 +22,8 @@ https://youtu.be/E2mCG2c9Gq0
 
 <img src="pic1.jpg" width="900">
 
-<img src="" width="400">
+## This is when I was system testing the GUI:
+<img src="" width="700">
 
 ## How to install:
 1. Clone the repository: git clone https://github.com/skytruong90/Access_Control_Management_GUI.git
