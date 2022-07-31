@@ -23,7 +23,7 @@ https://youtu.be/E2mCG2c9Gq0
 
 <img src="pic1.jpg" width="900">
 
-<img src="pic4.jpg" width="700">
+<img src="pic4.png" width="700">
 
 ## This is when I was system testing the GUI:
 <img src="pic3.png" width="700">
