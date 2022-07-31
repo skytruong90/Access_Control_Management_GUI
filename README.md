@@ -15,7 +15,7 @@ https://youtu.be/E2mCG2c9Gq0
 <img src="Login_Screen.jpg" width="400">
 
 ## This is the class diagram that explain the layout of the project.
-<img src="" width="400">
+<img src="class_diagram.png" width="400">
 
 ## This is the main interface of the GUI, where you can add buiding, room, suite and employees. 
 <img src="" width="400">
