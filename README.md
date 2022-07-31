@@ -12,7 +12,7 @@ https://youtu.be/E2mCG2c9Gq0
 ## Objective: Create a GUI based system that allows a user to manage buildings, suites, and rooms; employees; and employees access to buildings, suites, and rooms. The system also has a way to test an employee’s access to a room. Finally, the system can be used to generate various reports about access to rooms.
 
 ## This is the login in Screen of the GUI.
-<img src="Login_Screen.jpg" width="280">
+<img src="Login_Screen.jpg" width="300">
 
 ## This is the class diagram that explain the layout of the project.
 <img src="class_diagram.png" width="400">
