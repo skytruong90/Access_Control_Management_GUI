@@ -13,6 +13,7 @@ https://youtu.be/E2mCG2c9Gq0
 
 ## This is the Login Screen:
 <img src="Login_Screen.jpg" width="320">
+<img src="Login_Screen2.png" width="320">
 
 ## This is the class diagram that explain the layout of the project:
 <img src="class_diagram.png" width="400">
