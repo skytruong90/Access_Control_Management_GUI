@@ -1,4 +1,4 @@
-# This is the Access Control System Project that my team and I work on together for this summer.
+# This is the Access Control System Project that my team and I work on together.
 
 ### Team members: 
 - [Jay Madison](https://github.com/JayMad18)
