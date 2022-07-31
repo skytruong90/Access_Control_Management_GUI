@@ -21,7 +21,7 @@ https://youtu.be/E2mCG2c9Gq0
 ## This is the main interface of the GUI, where you can add buiding, room, suite and employees:
 <img src="pic2.jpg" width="700">
 
-<img src="pic1.jpg" width="900">
+<img src="pic1.jpg" width="1000">
 
 <img src="pic4.png" width="700">
 
