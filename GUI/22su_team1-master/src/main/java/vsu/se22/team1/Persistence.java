@@ -11,7 +11,7 @@ import java.util.UUID;
 
 /**
  * This class contains methods for reading and writing Manager instances.
- * @author Chase Vaughan (git@cvaugh.dev)
+ * @author David Tan
  */
 public final class Persistence {
     /**
